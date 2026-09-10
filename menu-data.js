@@ -22,9 +22,9 @@ const MENU = [
     label: 'NY Style Gyro',
     note: 'Full tray $120',
     items: [
-      { name: 'Lamb Gyro Rice', desc: 'NY style', price: '$8.99' },
-      { name: 'Chicken Gyro Rice', desc: 'NY style', price: '$8.99' },
-      { name: 'Mix Gyro Rice', desc: 'NY style', price: '$8.99' },
+      { name: 'Lamb Gyro Rice', desc: 'NY style', price: '$9.99' },
+      { name: 'Chicken Gyro Rice', desc: 'NY style', price: '$9.99' },
+      { name: 'Mix Gyro Rice', desc: 'NY style', price: '$10.99' },
       { name: 'Philly Steak Gyro Rice', desc: 'NY style', price: '$10.99' },
     ],
   },
@@ -50,8 +50,8 @@ const MENU = [
     id: 'subs',
     label: 'Subs',
     items: [
-      { name: 'Grilled Chicken Sub', desc: '', price: '$7.99' },
-      { name: 'NY Style Lamb Gyro Sub', desc: '', price: '$7.99' },
+      { name: 'Grilled Chicken Sub', desc: '', price: '$8.99' },
+      { name: 'NY Style Lamb Gyro Sub', desc: '', price: '$8.99' },
       { name: 'Philly Cheese Steak', desc: 'Swiss, with fries', price: '$7.99' },
       { name: 'Spicy Grilled Chicken', desc: '', price: '$7.99' },
     ],
